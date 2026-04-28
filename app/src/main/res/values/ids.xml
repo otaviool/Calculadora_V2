@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="textViewResultadoID" type="id">textViewResultadoID</item>
+    <item name="textViewUltimaExpressaoID" type="id">textViewUltimateExpressaoID</item>
+    <item name="splitLineHorizontalID" type="id">splitLineHorizontalIS</item>
+    <item name="buttonBlanckID" type="id">buttonBlanckID</item>
+    <item name="buttonPorcentoID" type="id">buttonPorcentoID</item>
+    <item name="buttonDeleteID" type="id">buttonDeleteID</item>
+    <item name="buttonTresID" type="id">buttonTresID</item>
+    <item name="buttonSomaID" type="id">buttonSomaID</item>
+    <item name="buttonSubtracaoID" type="id">buttonSubtracaoID</item>
+    <item name="buttonDoisID" type="id">buttonDoisID</item>
+    <item name="buttonIgualID" type="id">buttonIgualID</item>
+    <item name="buttonUmID" type="id">buttonUmID</item>
+    <item name="buttonVirgulaID" type="id">buttonVirgulaID</item>
+    <item name="buttonQuatroID" type="id">buttonQuatroID</item>
+    <item name="buttonSeisID" type="id">buttonSeisID</item>
+    <item name="buttonCincoID" type="id">buttonCincoID</item>
+    <item name="buttonMultiplicacaoID" type="id">buttonMultiplicacaoID</item>
+    <item name="buttonOitoID" type="id">buttonOitoID</item>
+    <item name="buttonSeteID" type="id">buttonSeteID</item>
+    <item name="buttonNoveID" type="id">buttonNoveID</item>
+    <item name="buttonDivisaoID" type="id">buttonDivisaoID</item>
+    <item name="buttonResetID" type="id">buttonResetID</item>
+    <item name="buttonZeroID" type="id">buttonZeroID</item>
+    <item name="activity_main_layout_id" type="id">activity_main_layout_id</item>
+</resources>
